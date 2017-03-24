@@ -1,0 +1,5 @@
+2.2 "UPDATE fuel SET name_fuel = 'a95' WHERE l_name = 'a92';" "DELET FROM auto_park WHELE name_auto="auto3";"
+2.3 "SELECT * FROM auto_park WHERE auto_type="car";
+2.4 "SELECT * FROM auto_park WHERE auto_type="truck" AND name_fuel="df";"
+
+
